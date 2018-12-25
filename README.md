@@ -22,7 +22,7 @@
 ##### Common to both Riders and Drivers:
 
 1. Signing in using Phone Number:
-![Signing in using Phone Number](https://drive.google.com/file/d/1TPxVzjfUTyz91_Ew1KIvMt9mPVs03rJT/view?usp=sharing)
+![Signing in using Phone Number](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Both/IMG_20181225_190019.jpg)
 
 ### How to import this project:
 
