@@ -4,10 +4,10 @@
 
 
 ### Index
-1. [Features].
-2. [Screenshots of the App].
-3. [How to import this project]
-4. [Changes to be made to convert the app into a generic Taxi-Booking-App]
+1. [Features](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/README.md#features).
+2. [Screenshots of the App](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/README.md#screenshots-of-the-app).
+3. [How to import this project](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/README.md#how-to-import-this-project).
+4. [Changes to be made to convert the app into a generic Taxi-Booking-App](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/README.md#changes-to-be-made-to-conver-the-app-into-a-generic-taxi-booking-app).
 
 ### Features:
 
