@@ -21,4 +21,4 @@
 
 ### How to import this project:
 
-### Changes to be made to conver the app into a generic Taxi-Booking-App
+### Changes to be made to convert the app into a generic Taxi-Booking-App
