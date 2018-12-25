@@ -17,7 +17,9 @@ import okhttp3.Response;
 
 class MessageSender {
     private static MessageSender instance = null;
-    private static final String LEGACY_SERVER_KEY = "AIzaSyD0Guj9z2DnlsUNlshkqcku2o_ZPxNgIB0";
+    
+    // put your Legacy Server Key from Firebase inside the double quotes.
+    private static final String LEGACY_SERVER_KEY = "YOUR_LEGACY_SERVER_KEY_HERE";
 
     private MessageSender() {
 
