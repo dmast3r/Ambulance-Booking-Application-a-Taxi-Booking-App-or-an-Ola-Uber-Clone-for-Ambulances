@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ambulance Booking Application</string>
+    <string name="FILE_NAME_KEY">candidate_file</string>
+    <string name="NAME_KEY">candidate_name</string>
+    <string name="CATEGORY_KEY">candidate_category</string>
+    <string name="NUMBER_KEY">candidate_number</string>
+    <string name="LOGINED_BEFORE_KEY">candidate_has_logined</string>
+    <string name="USER_ID_KEY">candidate_uid</string>
+    <string name="title_activity_user_home">UserHome</string>
+</resources>

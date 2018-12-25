@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "176177072418",
+    "firebase_url": "https://ambulance-booking-app-sih.firebaseio.com",
+    "project_id": "ambulance-booking-app-sih",
+    "storage_bucket": "ambulance-booking-app-sih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176177072418:android:25a32b06d50ee820",
+        "android_client_info": {
+          "package_name": "com.project.sih.ambulancebookingapp_sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176177072418-vu1dbghtmemqodbdjeakdk502b4et6en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.sih.ambulancebookingapp_sih",
+            "certificate_hash": "a5f86fba6f83d31a160e7b6b9cc606c778dc13c0"
+          }
+        },
+        {
+          "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc4825zW-QYm7mRQlKgxjtsMU37E_T0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176177072418:android:fa38cc42c372c9f4",
+        "android_client_info": {
+          "package_name": "com.project.sih.ambulancebookingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176177072418-h3pd5ncr43lst80lv9eq4030tq2mtohu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.sih.ambulancebookingapplication",
+            "certificate_hash": "a5f86fba6f83d31a160e7b6b9cc606c778dc13c0"
+          }
+        },
+        {
+          "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc4825zW-QYm7mRQlKgxjtsMU37E_T0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
