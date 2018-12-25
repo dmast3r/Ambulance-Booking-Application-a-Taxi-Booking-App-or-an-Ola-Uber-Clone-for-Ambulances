@@ -30,9 +30,10 @@
         </activity>
         <activity android:name=".SetUpProfileActivity" />
 
+        <!-- replace YOUR_API_KEY_HERE by your Google Map API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCVrUVZVOKwHYFxdQeT_Z6--8KH0PHqs8M" />
+            android:value="YOUR_API_KEY_HERE" />
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
