@@ -22,7 +22,28 @@
 ##### Common to both Riders and Drivers:
 
 1. Signing in using Phone Number:
+
 ![Signing in using Phone Number](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Both/IMG_20181225_190019.jpg)
+
+2. OTP Verification:
+
+3. Driver/Rider profile selection option on first time account creation:
+
+![Driver/Rider profile selection option on first time account creation](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Rider/Screenshot_2018-12-21-19-42-59-761_com.project.sih.ambulancebookingapplication.png)
+
+##### Rider:
+
+2. Make a request to some Ambulance:
+
+![Make a request to some Ambulance](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Rider/IMG_20181225_185829.jpg)
+
+3. Driver accepting the request notification:
+
+![Driver accepting the request notification](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Rider/IMG_20181225_185643.jpg)
+
+4. Call the Ambulance Driver:
+
+![Call the Ambulance Driver](https://github.com/dmast3r/Ambulance-Booking-Application-a-Taxi-Booking-App-or-an-Ola-Uber-Clone-for-Ambulances/blob/master/screenshots/Rider/IMG_20181225_185320.jpg)
 
 ### How to import this project:
 
